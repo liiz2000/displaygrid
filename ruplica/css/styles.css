@@ -64,7 +64,7 @@ main{
     background-color: #EEEEEE;
     border: 1px solid#999999;
     border-radius: 5px;
-    width: 1390px;
+    width: 1040px;
     margin: 10px;
     height:380px;
     padding: 10px;
@@ -108,7 +108,7 @@ main{
     grid-template-columns: repeat(11, 48px);
     align-items: center;
     justify-content: space-between;
-    width: 1415px;
+    width: 1300px;
     height: 110px;
     border-radius: 5px;
     margin: 0.5em;
