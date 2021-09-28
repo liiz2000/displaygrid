@@ -108,7 +108,7 @@ main{
     grid-template-columns: repeat(11, 48px);
     align-items: center;
     justify-content: space-between;
-    width: 1300px;
+    width: 1250px;
     height: 110px;
     border-radius: 5px;
     margin: 0.5em;
